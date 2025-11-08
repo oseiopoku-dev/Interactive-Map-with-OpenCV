@@ -31,14 +31,12 @@ This project demonstrates how accessible AI tools—like OpenCV—can make learn
 1. Clone the repository:  
    ```bash
    git clone https://github.com/oseiopoku-dev/Interactive-Map-with-OpenCV.git
-
-## ⚙️ Usage
-
-2. **Install dependencies:**
+   
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-## Run the main script:
+3. Run the main script:
   ```bash
   python src/map_detector.py
 
